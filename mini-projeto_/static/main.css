@@ -1,0 +1,15 @@
+body {
+    background: #C9D6FF;  
+    background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF); 
+    background: linear-gradient(to right, #E2E2E2, #C9D6FF);  
+    color: #000;
+}
+
+.title {
+    font-family: 'Lobster', cursive;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
